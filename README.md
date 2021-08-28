@@ -16,18 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there! Leandro here.
-- I'm an physics engineer currently working on Accenture as MC Delivery Analyst building automated solutions in Big Data environments using Python and other technologies.
-
-- I'm currently studying the following topics:
-  - Cloud Architecture in AWS.
-  - Docker.
-  - Python.
-  - Shell.
-  - Java.
-  - Apache Hadoop Ecosystem.
-
-- I would be happy to collaborate in anything related to the topics above.
-- You can reach me by my (Linkedin Profile)[https://www.linkedin.com/in/kellermann1992/]
  <div>
   <a href="https://github.com/lkellermann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkellermann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,8 +32,20 @@ Here are some ideas to get you started:
 <img align="center" alt="lkellermann-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
 <img align="center" alt="lkellermann-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
 </div>
+  
+- I'm an physics engineer currently working on Accenture as MC Delivery Analyst building automated solutions in Big Data environments using Python and other technologies.
+
+- I'm currently studying the following topics:
+  - Cloud Architecture in AWS.
+  - Docker.
+  - Python.
+  - Shell.
+  - Java.
+  - Apache Hadoop Ecosystem.
+
+- I would be happy to collaborate in anything related to the topics above.
+- You can reach me by my [Linkedin Profile](https://www.linkedin.com/in/kellermann1992/)
  
 ##
 <div> 
