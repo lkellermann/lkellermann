@@ -1,6 +1,6 @@
 ## 👋 Hi there! Leandro here.
 
-I'm a physics engineer currently working at Accenture developing big data automated solutions in Python. Out of the office I like to study Cloud Architecture (AWS), Shell, Docker, Apache Hadoop Ecosystem and also to read books and listening to heavy metal :metal:.
+I'm a physics engineer working as a Senior Data Engineer. Out of the office I like to study tech things, play video-games (Switch and PS5), read non-fiction books and listen to heavy metal :metal:.
 <div>
 <a href="https://github.com/lkellermann">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkellermann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,5 +23,5 @@ I'm a physics engineer currently working at Accenture developing big data automa
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/kellermann1992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/lkellermann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
